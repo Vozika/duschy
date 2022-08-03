@@ -1,0 +1,7 @@
+.menu {color:#FFFFFF;text-decoration:none;}
+.katalog {color:gray;}
+.zagolovok {color:#0062A8;}
+a.katalog:hover {color:#0062A8;}
+.tabl {border-bottom:solid 1px #ECECEC;height:40px;}
+.tablo {border-bottom:solid 1px #ECECEC;height:40px;color:#0062A8;}
+td {color:gray;font-family:Verdana,Tahoma,Arial,sans-serif;font-size:70%;}
